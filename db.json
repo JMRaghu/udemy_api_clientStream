@@ -1,0 +1,31 @@
+{
+  "stream": [
+    {
+      "title": "My Stream",
+      "description": "This Stream is great",
+      "id": 1
+    },
+    {
+      "title": "some stream",
+      "description": "this is somestream",
+      "id": 2
+    },
+    {
+      "title": "third test",
+      "description": "test three awesome works fine",
+      "id": 3
+    },
+    {
+      "title": "this is a new stream",
+      "description": "I created this aweesome stream",
+      "userId": "111986745810240080032",
+      "id": 4
+    },
+    {
+      "title": "programatic History",
+      "description": "Just created this, now page has to go to listOf Streams",
+      "userId": "111986745810240080032",
+      "id": 5
+    }
+  ]
+}
