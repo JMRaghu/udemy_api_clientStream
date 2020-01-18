@@ -1,8 +1,6 @@
 {
   "stream": [
     {
-      "title": "My Stream",
-      "description": "This Stream is great",
       "id": 1
     },
     {
@@ -16,16 +14,45 @@
       "id": 3
     },
     {
-      "title": "this is a new stream",
-      "description": "I created this aweesome stream",
-      "userId": "111986745810240080032",
       "id": 4
     },
     {
-      "title": "programatic History",
-      "description": "Just created this, now page has to go to listOf Streams",
-      "userId": "111986745810240080032",
       "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "title": "Reuse component",
+      "description": "Onsubmit we need to call edit in action and also we need to push id and formValues _And to piuck only title and description use lodash ._pick() ",
+      "id": 12
+    },
+    {
+      "title": "Refactor of Stream CreateForm",
+      "description": "Resue of component",
+      "userId": "111986745810240080032",
+      "id": 13
+    },
+    {
+      "title": "New stream  using Patch",
+      "description": "use patch instead of put to avoid all the properties getting changed in api------->True",
+      "userId": "111986745810240080032",
+      "id": 14
     }
   ]
 }
